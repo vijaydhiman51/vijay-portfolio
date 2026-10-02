@@ -65,7 +65,7 @@ const Thinking = () => {
           </div>
 
           {/* SCENARIO SELECTOR */}
-          <div className="mb-4 flex flex-wrap gap-2">
+          <div className="mb-4 flex flex-col md:flex-row flex-wrap gap-2">
             {scenarios.map((item, index) => (
               <button
                 key={item.id}

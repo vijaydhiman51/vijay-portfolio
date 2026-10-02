@@ -60,7 +60,7 @@ const COMMANDS: Record<string, CommandResult> = {
 
   thinking: "Investigate → Isolate → Optimize → Measure",
 
-  contact: ["Email: vijaydhiman51@gmail.com", "LinkedIn: /in/vijaydhiman51"],
+  contact: ["Email: vijaydhiman51@gmail.com", "LinkedIn: /in/vijaydhiman51", "GitHub: /vijaydhiman51", "Contact: +91-98962 49174"],
 };
 
 const createInitialHistory = (): HistoryLine[] => [
